@@ -1,0 +1,78 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="allure-pytest" />
+          <option value="allure-python-commons" />
+          <option value="annotated-types" />
+          <option value="attrs" />
+          <option value="beartype" />
+          <option value="casefy" />
+          <option value="certifi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="dnspython" />
+          <option value="email_validator" />
+          <option value="exceptiongroup" />
+          <option value="Faker" />
+          <option value="h11" />
+          <option value="humanfriendly" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-path" />
+          <option value="jsonschema-specifications" />
+          <option value="junitparser" />
+          <option value="lazy-object-proxy" />
+          <option value="logging" />
+          <option value="MarkupSafe" />
+          <option value="mypy_extensions" />
+          <option value="openapi-schema-validator" />
+          <option value="openapi-spec-validator" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="pathable" />
+          <option value="pluggy" />
+          <option value="prance" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="pyserde" />
+          <option value="PySocks" />
+          <option value="pytest" />
+          <option value="pytest-json" />
+          <option value="pytest-json-report" />
+          <option value="pytest-metadata" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="rfc3339-validator" />
+          <option value="rpds-py" />
+          <option value="ruamel.yaml" />
+          <option value="selenium" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="tomli" />
+          <option value="tqdm" />
+          <option value="trcli" />
+          <option value="trio" />
+          <option value="trio-websocket" />
+          <option value="typing-inspect" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="websocket-client" />
+          <option value="wsproto" />
+          <option value="chromedriver-autoinstaller" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
